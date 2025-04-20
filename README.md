@@ -7,4 +7,4 @@ Since our work aims to assess the reliability and contextual alignment of Q\&amp
 - content validation through a Human Judgment Analysis to ensure quality and educational value;
 - semantic similarity analysis by leveraging TF-IDF for keyword overlap, Word2Vec for basic semantic relationships, and BERT for deep contextual understanding.
 
-<center><img src="graphs-SSA.png" width=500px/></center>
+<center><img src="img/human-judgment.png" width=500px/></center>
