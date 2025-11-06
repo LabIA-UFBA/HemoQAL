@@ -24,7 +24,7 @@ The semantic similarity analysis was conducted using the pipeline illustrated in
 <center><img src="img/semantic-similarity.png" width=500px/></center>
 
 ---
-
+<!--
 ### Repository structure
 
 The organization of this repository is:
@@ -32,6 +32,7 @@ The organization of this repository is:
 > - **data** : raw and processed texts used in our study
 > - **src** : source codes used to preprocess the texts
 > - **img**: images and plots used in our experiments
+-->
 
 On the behalf of all of the authors, we appreciate your interest in our data, code and models, and hope they are useful to your research.
 
